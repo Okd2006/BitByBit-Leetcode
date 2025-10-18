@@ -8,3 +8,7 @@ Name:
 Semester:
 USN:
 College Email:
+Omkrrish
+3rd Sem
+1BF24CS204
+omkrrish.cs24@bmsce.ac.in
